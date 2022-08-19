@@ -1,9 +1,9 @@
 # Builds a fat library for a given xcode project (framework)
-
+printf '\33c\e[3J'
 echo "Define parameters"
-IOS_SDK_VERSION="14.0"
+IOS_SDK_VERSION="15.5"
 SWIFT_PROJECT_NAME="WidgetCenterProxy"
-SWIFT_PROJECT_PATH="$SWIFT_PROJECT_NAME/$SWIFT_PROJECT_NAME.xcodeproj"
+SWIFT_PROJECT_PATH="./$SWIFT_PROJECT_NAME/$SWIFT_PROJECT_NAME.xcodeproj"
 SWIFT_BUILD_PATH="$SWIFT_PROJECT_NAME/build"
 SWIFT_OUTPUT_PATH="VendorFrameworks/swift-framework-proxy"
 

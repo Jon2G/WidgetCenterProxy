@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/jon2g/Documents/GitHub/WidgetCenterProxy/WidgetCenterProxy/build/Release-iphonesimulator/WidgetCenterProxy.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/jon2g/Documents/GitHub/WidgetCenterProxy/WidgetCenterProxy/build/WidgetCenterProxy.build/Release-iphonesimulator/WidgetCenterProxy.build/unextended-module.modulemap",
+    }]
+  }]
+}

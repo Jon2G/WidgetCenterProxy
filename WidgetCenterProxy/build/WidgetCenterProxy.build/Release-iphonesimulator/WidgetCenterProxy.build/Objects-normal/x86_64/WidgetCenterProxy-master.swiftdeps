@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "0f54eef78903d555cb5605ffd52c3ab2d34134ae6a85f01f5bf3a2476fd163f0"
+build_start_time: [1660948653, 151438951]
+build_end_time: [1660948655, 316338062]
+inputs:
+  "/Users/jon2g/Documents/GitHub/WidgetCenterProxy/WidgetCenterProxy/WidgetCenterProxy/WidgetCenterProxy.swift": [1660926834, 801777362]
+  "/Users/jon2g/Documents/GitHub/WidgetCenterProxy/WidgetCenterProxy/WidgetCenterProxy/WidgetInfoProxy.swift": [1660926834, 801866054]
