@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-WidgetCenterProxy in WidgetCenterProxy, no dependencies

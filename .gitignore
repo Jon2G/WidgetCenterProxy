@@ -1,0 +1,8 @@
+build/
+obj/
+bin/
+build/
+.DS_Store
+VendorFrameworks/
+WidgetCenterProxy/build/
+Release-iphonesimulator/
